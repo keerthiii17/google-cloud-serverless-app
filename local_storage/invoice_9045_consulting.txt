@@ -1,0 +1,15 @@
+INVOICE #9045
+Date: 2026-06-17
+Client: Globex Corporation
+Service: Serverless Cloud Architecture Implementation and Deployment
+Consultant: Lead DevOps Architect
+
+Details:
+- GCS Trigger configuration: $500
+- Cloud Run service setup: $1200
+- BigQuery streaming ingestion: $800
+
+TOTAL AMOUNT DUE: $2500.00 USD
+Payment Terms: Net 30
+
+Thank you for your business!
